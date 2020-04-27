@@ -5,3 +5,5 @@ Favorite movies:
 - john wick
 
 I hope u like it
+
+content update to 2 files simultaneously
