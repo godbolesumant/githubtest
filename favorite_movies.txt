@@ -4,6 +4,11 @@ Favorite movies:
 - Ring
 - john wick
 
+- transformer
+- ironman
+- pokhran
+- URI
+
 - edge of tomorrow
 - fast and furious
 - houseMD
