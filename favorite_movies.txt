@@ -16,3 +16,5 @@ Favorite movies:
 I hope u like it
 
 content update to 2 files simultaneously
+
+new content added from branch
